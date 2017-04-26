@@ -1,0 +1,22 @@
+body {
+    background:orange
+}
+
+.calc-area {
+
+}
+.calc-area > input, .calc-area > span {
+    margin-left: 3px;
+}
+
+.calc-area > input{
+    width: 100px;
+}
+
+.calc-area > #calc{
+    width: 60px;
+}
+
+.calc-element {
+    margin-left: 3px;
+}
